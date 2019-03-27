@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaylosy.Kernel", "Jaylosy.Kernel\Jaylosy.Kernel.csproj", "{2FA588CF-5A5A-4653-9AE4-B2A816D143A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaylosy.Kernel.Tests", "Jaylosy.Kernel.Tests\Jaylosy.Kernel.Tests.csproj", "{CF8E1FDD-E910-456C-A63B-0325289B21C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA588CF-5A5A-4653-9AE4-B2A816D143A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA588CF-5A5A-4653-9AE4-B2A816D143A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA588CF-5A5A-4653-9AE4-B2A816D143A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA588CF-5A5A-4653-9AE4-B2A816D143A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8E1FDD-E910-456C-A63B-0325289B21C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8E1FDD-E910-456C-A63B-0325289B21C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8E1FDD-E910-456C-A63B-0325289B21C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8E1FDD-E910-456C-A63B-0325289B21C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7216C6B-3727-40D3-A0DD-3498972CCDC6}
+	EndGlobalSection
+EndGlobal
